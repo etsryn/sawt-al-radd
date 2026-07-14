@@ -1,0 +1,154 @@
+/* bookmarksPage.module.css */
+.pageWrapper {
+  max-width: 100vw;
+  margin: 0 auto;
+  padding: 0rem;
+  background: #ffffff;
+  min-height: 100vh;
+  font-family: 'Inter', sans-serif;
+}
+
+
+
+/* ------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+
+.pageWrapper.dark {
+    background-color: rgb(40, 52, 69);
+    color: white;
+}
+.dark .helperText, .dark .emptyText, .dark .title {
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------ */
+
+.header {
+  position: relative; /* Important */
+  display: flex;
+  align-items: center;
+  margin-bottom: 0rem;
+  border-bottom: 1px solid #e5e7eb;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  height: 60px; /* or adjust based on your design */
+  /* box-shadow: 0 8px 24px rgba(0, 0, 0, 0.9); */
+  width: 100vw;
+  height: 5vw;
+  /* outline: 1px solid red; */
+}
+
+.title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 2rem;
+  font-weight: 800;
+  color: #1a202c;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  letter-spacing: 0.4px;
+  z-index: 1;
+}
+
+.backBtn {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #1f2937;
+  padding: 8px 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  background-color: #f9fafb;
+  transition: all 0.2s ease-in-out;
+  margin-left: 5vw;
+}
+
+.backBtn:hover {
+  background-color: #e0e7ff;
+  color: #1e3a8a;
+  transform: scale(1.04);
+}
+
+.emptyBox {
+  text-align: center;
+  margin-top: 4rem;
+  opacity: 0.8;
+}
+
+.emptyText {
+  font-size: 1.2rem;
+  color: #6b7280;
+  font-weight: 600;
+}
+
+.helperText {
+  margin-top: 0.4rem;
+  color: #9ca3af;
+  font-size: 0.95rem;
+}
+
+
+
+.wrapper {
+  display: flex;
+  gap: 2rem;
+  height: 80vh;
+  padding: 1rem;
+}
+
+.scrollColumn {
+  flex: 1;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+  border-bottom: 1px solid #fff;
+}
+
+.cardGrid {
+  display: grid;
+  grid-template-columns: 1fr; /* one card per row */
+  gap: 3rem;
+}
+/* Chrome, Safari, Edge */
+.scrollColumn::-webkit-scrollbar {
+  display: none;
+}
+
+/* For WebKit (Chrome, Safari) */
+.scrollColumn::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollColumn::-webkit-scrollbar-track {
+  background: #f9fafb;
+}
+
+.scrollColumn::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #cbd5e1, #a0aec0);
+  border-radius: 4px;
+}
+
+.scrollColumn::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #a0aec0, #718096);
+}

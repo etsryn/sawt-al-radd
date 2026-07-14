@@ -1,0 +1,409 @@
+[
+    {
+        "title": "1",
+        "question": "What is the literal meaning of the term \"Islam\" ?",
+        "chain_of_narrator": "",
+        "authentic_hadith": "",
+        "authentic_hadith_arabic": "",
+        "clear_answer": "",
+        "clear_answer_tag": "",
+        "reference_number": "",
+        "in_book_reference_number": "",
+        "verify_on": "",
+        "verification_method": "",
+        "logic_source": "Core Islamic Knowledge",
+        "logic_authenticity": "",
+        "logic_statement": "The term \"Islam\" (الإسلام) comes from the Arabic root word \"س-ل-م\" (S-L-M), which carries meanings of:\n1. Peace\n2. Submission\n3. Surrender\n4. Obedience\n\n<b>Actual Meaning of \"Islam\"</b>\nIslam means \"<b>submission to the will of Allah (God)</b>\" with <i>sincerity</i>, <i>obedience</i>, and <i>peace</i>.\n\n<b>In simple terms:</b>\n<li>A person who follows Islam submits himself or herself fully to the guidance of Allah.</li><li>Through this submission, one finds inner peace, and contributes to peace in society.</li>",
+        "bismillah": "",
+        "ayah_arabic": "",
+        "ayah_translation_english": "",
+        "surah_number": "",
+        "surah_name": "",
+        "ayah_number": "",
+        "ayah_name_if_any": "none",
+        "ayah_verify_on": "",
+        "ayah_verification_method": "",
+        "ayah_audio": "",
+        "hadith": "false",
+        "quran": "false",
+        "logic": "true",
+        "video": "false",
+        "default_tab_priority": [
+            "Logic",
+            "Hadith",
+            "Quran",
+            "Video"
+        ],
+        "verse_key": "none",
+        "timestamp_from": 0,
+        "timestamp_to": 0,
+        "duration": 0,
+        "segments_time": [],
+        "segment_word": []
+    },
+    {
+        "title": "2",
+        "question": "What is the meaning of “Tawheed”?",
+        "chain_of_narrator": "",
+        "authentic_hadith": "",
+        "authentic_hadith_arabic": "",
+        "clear_answer": "",
+        "clear_answer_tag": "",
+        "reference_number": "",
+        "in_book_reference_number": "",
+        "verify_on": "",
+        "verification_method": "",
+        "logic_source": "Core Islamic Knowledge",
+        "logic_authenticity": "",
+        "logic_statement": "The word <b>Tawheed</b> (التوحيد) comes from the Arabic root word \"و-ح-د\" (W-H-D), meaning <b>oneness</b>, <b>unity</b>, or <b>uniqueness</b>.\n\n<b>Tawheed</b> refers to <b>the Islamic concept of monotheism</b>, i.e., believing that there is only one true God — Allah — and He alone deserves worship.\n\n<b>Three categories of Tawheed:</b>\n1. <b>Tawheed ar-Ruboobiyyah</b>: Believing that Allah alone is the Creator, Sustainer, and Controller of the universe.\n2. <b>Tawheed al-Uloohiyyah</b>: Worshipping Allah alone and directing all acts of worship to Him.\n3. <b>Tawheed al-Asma was-Sifaat</b>: Affirming Allah’s Names and Attributes as mentioned in the Qur'an and Sunnah, without changing or comparing them.\n\n<b>In simple terms:</b>\n<li>Tawheed means recognizing Allah's absolute Oneness in His Lordship, Worship, and Attributes.</li><li>Denying Tawheed is the gravest sin (Shirk) in Islam.</li>",
+        "bismillah": "",
+        "ayah_arabic": "",
+        "ayah_translation_english": "",
+        "surah_number": "",
+        "surah_name": "",
+        "ayah_number": "",
+        "ayah_name_if_any": "none",
+        "ayah_verify_on": "",
+        "ayah_verification_method": "",
+        "ayah_audio": "",
+        "hadith": "false",
+        "quran": "false",
+        "logic": "true",
+        "video": "false",
+        "default_tab_priority": [
+            "Logic",
+            "Hadith",
+            "Quran",
+            "Video"
+        ],
+        "verse_key": "none",
+        "timestamp_from": 0,
+        "timestamp_to": 0,
+        "duration": 0,
+        "segments_time": [],
+        "segment_word": []
+    },
+    {
+        "title": "3",
+        "question": "Why is Tawheed important in Islam?",
+        "chain_of_narrator": "",
+        "authentic_hadith": "",
+        "authentic_hadith_arabic": "",
+        "clear_answer": "",
+        "clear_answer_tag": "",
+        "reference_number": "",
+        "in_book_reference_number": "",
+        "verify_on": "",
+        "verification_method": "",
+        "logic_source": "Core Islamic Knowledge",
+        "logic_authenticity": "",
+        "logic_statement": "<b>Tawheed</b> is the foundation and essence of Islam. It is what distinguishes Islam from all other religions.\n\n<b>Why is Tawheed important?</b>\n1. <b>Purpose of creation:</b> Allah created mankind and jinn solely to worship Him (Qur’an 51:56).\n2. <b>Entry to Paradise:</b> Belief in Tawheed is the first condition for salvation in the Hereafter.\n3. <b>Greatest command:</b> The first pillar of Islam — the Shahadah — is built on Tawheed: “La ilaha illallah”.\n4. <b>Opposite of Tawheed is Shirk:</b> Associating partners with Allah is the gravest sin and unforgivable if not repented (Qur’an 4:48).\n5. <b>Unity of Muslims:</b> Belief in one God unifies Muslims across the world under one faith.\n6. <b>Guides worship:</b> It defines how we pray, fast, give charity, and live our lives — solely for Allah.\n\n<b>In simple terms:</b>\n<li>Tawheed is the key to understanding Islam.</li><li>Without it, no act of worship is accepted.</li><li>It strengthens faith, purifies intentions, and builds a direct relationship with Allah.</li>",
+        "bismillah": "بِسْــــــــــــــــــمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "hadith": "false",
+        "quran": "true",
+        "logic": "true",
+        "video": "false",
+        "default_tab_priority": [
+            "Logic",
+            "Hadith",
+            "Quran",
+            "Video"
+        ],
+        "ayah_references": [
+            {
+                "surah_number": "51",
+                "surah_name": "Surah Adh-Dhariyat",
+                "ayah_number": 56,
+                "ayah_name_if_any": "none",
+                "ayah_translation_english": "I did not create jinn and humans except to worship Me.",
+                "ayah_verify_on": "https://quran.com/51/56",
+                "ayah_verification_method": "www.quran.com",
+                "ayah_audio": "/quran_recitation_audio/s5v56.mp3",
+                "verse_key": "51:56",
+                "timestamp_from": 492260,
+                "timestamp_to": 502210,
+                "duration": 9950,
+                "segments_time": [
+                    [
+                        1,
+                        492205,
+                        492845
+                    ],
+                    [
+                        2,
+                        492845,
+                        493765
+                    ],
+                    [
+                        3,
+                        493765,
+                        495715
+                    ],
+                    [
+                        4,
+                        495715,
+                        497675
+                    ],
+                    [
+                        5,
+                        497675,
+                        498595
+                    ],
+                    [
+                        6,
+                        498595,
+                        502090
+                    ]
+                ],
+                "segment_word": [
+                    [
+                        "وَمَا"
+                    ],
+                    [
+                        "خَلَقۡتُ"
+                    ],
+                    [
+                        "ٱلۡجِنَّ"
+                    ],
+                    [
+                        "وَٱلۡإِنسَ"
+                    ],
+                    [
+                        "إِلَّا"
+                    ],
+                    [
+                        "لِيَعۡبُدُونِ"
+                    ]
+                ]
+            },
+            {
+                "surah_number": "4",
+                "surah_name": "Surah An-Nisa",
+                "ayah_number": 48,
+                "ayah_name_if_any": "none",
+                "ayah_translation_english": "Indeed, Allah does not forgive associating others with Him ˹in worship˺, but forgives anything else of whoever He wills. And whoever associates others with Allah has indeed committed a grave sin.",
+                "ayah_verify_on": "https://quran.com/4/48",
+                "ayah_verification_method": "www.quran.com",
+                "ayah_audio": "/quran_recitation_audio/s4v48.mp3",
+                "verse_key": "4:48",
+                "timestamp_from": 1552580,
+                "timestamp_to": 1573560,
+                "duration": 20980,
+                "segments_time": [
+                    [
+                        1,
+                        1552515,
+                        1553845
+                    ],
+                    [
+                        2,
+                        1553845,
+                        1554645
+                    ],
+                    [
+                        3,
+                        1554645,
+                        1555105
+                    ],
+                    [
+                        4,
+                        1555105,
+                        1555925
+                    ],
+                    [
+                        5,
+                        1555925,
+                        1556215
+                    ],
+                    [
+                        6,
+                        1556215,
+                        1557605
+                    ],
+                    [
+                        7,
+                        1557605,
+                        1558205
+                    ],
+                    [
+                        8,
+                        1558205,
+                        1559275
+                    ],
+                    [
+                        9,
+                        1559275,
+                        1559675
+                    ],
+                    [
+                        10,
+                        1559675,
+                        1560145
+                    ],
+                    [
+                        11,
+                        1560145,
+                        1561115
+                    ],
+                    [
+                        12,
+                        1561115,
+                        1561685
+                    ],
+                    [
+                        13,
+                        1561685,
+                        1564675
+                    ],
+                    [
+                        14,
+                        1564675,
+                        1565495
+                    ],
+                    [
+                        7,
+                        1565495,
+                        1566415
+                    ],
+                    [
+                        15,
+                        1566415,
+                        1567175
+                    ],
+                    [
+                        16,
+                        1567175,
+                        1568185
+                    ],
+                    [
+                        17,
+                        1568185,
+                        1568855
+                    ],
+                    [
+                        18,
+                        1568855,
+                        1571125
+                    ],
+                    [
+                        19,
+                        1571125,
+                        1571825
+                    ],
+                    [
+                        20,
+                        1571825,
+                        1573430
+                    ]
+                ],
+                "segment_word": [
+                    [
+                        "إِنَّ"
+                    ],
+                    [
+                        "ٱللَّهَ"
+                    ],
+                    [
+                        "لَا"
+                    ],
+                    [
+                        "يَغۡفِرُ"
+                    ],
+                    [
+                        "أَن"
+                    ],
+                    [
+                        "يُشۡرَكَ"
+                    ],
+                    [
+                        "بِهِۦ"
+                    ],
+                    [
+                        "وَيَغۡفِرُ"
+                    ],
+                    [
+                        "مَا"
+                    ],
+                    [
+                        "دُونَ"
+                    ],
+                    [
+                        "ذَٰلِكَ"
+                    ],
+                    [
+                        "لِمَن"
+                    ],
+                    [
+                        "يَشَآءُۚ"
+                    ],
+                    [
+                        "وَمَن"
+                    ],
+                    [
+                        "يُشۡرِكۡ"
+                    ],
+                    [
+                        "بِٱللَّهِ"
+                    ],
+                    [
+                        "فَقَدِ"
+                    ],
+                    [
+                        "ٱفۡتَرَىٰٓ"
+                    ],
+                    [
+                        "إِثۡمًا"
+                    ],
+                    [
+                        "عَظِيمًا"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "title": "4",
+        "question": "What does the term “Deen” mean in Islam?",
+        "chain_of_narrator": "",
+        "authentic_hadith": "",
+        "authentic_hadith_arabic": "",
+        "clear_answer": "",
+        "clear_answer_tag": "",
+        "reference_number": "",
+        "in_book_reference_number": "",
+        "verify_on": "",
+        "verification_method": "",
+        "logic_source": "Core Islamic Knowledge",
+        "logic_authenticity": "",
+        "logic_statement": "The Arabic word <b>“Deen”</b> (الدِّين) refers to a complete <b>“way of life“</b> or <b>“system of living“</b>, not just a religion in the limited sense.\n\n<b>Root Meaning:</b> Deen comes from the root \"د-ي-ن\" (D-Y-N), which carries meanings of:\n1. Obedience\n2. Submission\n3. Judgment or accountability\n\n<b>In Islam:</b>\n\"Deen\" is the complete way prescribed by Allah for human life, covering:\n\n<li>Beliefs (Aqidah)</li><li>Acts of worship (Ibadah)</li><li>Social conduct</li><li>Legal matters</li><li>Personal ethics</li>\nThus, Islam as a \"Deen\" is not just faith and rituals, but a full roadmap for living life in harmony with divine guidance.",
+        "bismillah": "بِسْــــــــــــــــــمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "hadith": "false",
+        "quran": "false",
+        "logic": "true",
+        "video": "false",
+        "default_tab_priority": [
+            "Logic",
+            "Hadith",
+            "Quran",
+            "Video"
+        ],
+        "ayah_references": [
+            {
+                "surah_number": "",
+                "surah_name": "",
+                "ayah_number": "none",
+                "ayah_name_if_any": "none",
+                "ayah_translation_english": "",
+                "ayah_verify_on": "",
+                "ayah_verification_method": "",
+                "ayah_audio": "",
+                "verse_key": "",
+                "timestamp_from": 0,
+                "timestamp_to": 0,
+                "duration": 0,
+                "segments_time": [],
+                "segment_word": []
+            }
+        ]
+    }
+]
