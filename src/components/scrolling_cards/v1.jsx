@@ -6,7 +6,7 @@ import QuranIcon from '../../assets/quran_icon.png';
 import MuhammadIcon from '../../assets/muhammad_icon.png';
 import LogicBulbIcon from '../../assets/logic_bulb_icon.png';
 import VideoIcon from '../../assets/video_icon.png';
-import NarratorIcon from '../../assets/Narrator_icon.png';
+import NarratorIcon from '../../assets/narrator_icon.png';
 import { useTheme } from '../../context/ThemeContext';
 import { useLocation } from 'react-router-dom';
 
