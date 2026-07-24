@@ -242,7 +242,7 @@ const landing = () => {
                         <div className={styles.button_set_top}>
                             <Link to="/know-your-deen"><button className={styles.left_panel_button}><BookOpen size={18} /> Know your Deen</button></Link>
                             <button className={styles.left_panel_button}><LayoutDashboard size={18} /> Revelation of Qur'an</button>
-                            <button className={styles.left_panel_button}><MessageCircleQuestion size={18} /> Compilation of Ahadith</button>
+                            <button className={styles.left_panel_button}><MessageCircleQuestion size={18} /> Architectures by Ummah</button>
                             <button className={styles.left_panel_button}><ListChecks size={18} /> The Voice of Response</button>
                             <button className={styles.left_panel_button}><FileText size={18} /> Haalat-e-Muslimah</button>
                             <button className={styles.left_panel_button}><CircleHelp size={18} /> Ayat to Remember</button>
